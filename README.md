@@ -7,7 +7,7 @@ Script to verify and  normalize police shooting data
 - Place data under ./data/original as xlsx
 - rename files to rawincidents, rawsubjects and rawofficers
 - open setup.ps1 under setup folder in your favorite text editor.
-- replace ENTERPASSWORDHERE with your databse password.
+- replace ENTERPASSWORDHERE with your database password.
 - Update databse name if required
 - open PowerShell and navigate to setup folder
 	example : ``` cd c:\git\policeshootings\setup ```
