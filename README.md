@@ -19,6 +19,7 @@ Script to verify and  normalize police shooting data
 	```
 	./setup.ps1 -nuke 1 -server <databaseservername> -user <username> -password <password>
 	```
+	
 ### Assumptions
 ---
 - Windows machine
@@ -26,5 +27,5 @@ Script to verify and  normalize police shooting data
 
 ### Requirements
 ---
- - Powershell [http://social.technet.microsoft.com/wiki/contents/articles/21016.how-to-install-windows-powershell-4-0.aspx]
- - MySQL ODBC connector [http://dev.mysql.com/downloads/connector/odbc/]
+ - [Powershell] (http://social.technet.microsoft.com/wiki/contents/articles/21016.how-to-install-windows-powershell-4-0.aspx)
+ - [MySQL ODBC connector] (http://dev.mysql.com/downloads/connector/odbc/)
