@@ -28,4 +28,4 @@ Script to verify and  normalize police shooting data
 ### Requirements
 ---
  - [Powershell] (http://social.technet.microsoft.com/wiki/contents/articles/21016.how-to-install-windows-powershell-4-0.aspx)
- - [MySQL ODBC connector] (http://dev.mysql.com/downloads/connector/odbc/)
+ - [MySQL ODBC .NET connector] (http://dev.mysql.com/downloads/file.php?id=454512)
