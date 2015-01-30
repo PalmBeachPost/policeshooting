@@ -21,5 +21,6 @@ BEGIN
 		subjects.city
 	FROM
 		subjects
-	INNER JOIN incidentsubjectmap ON subjects.Id = incidentsubjectmap.subjectId;
+	INNER JOIN incidentsubjectmap ON subjects.Id = incidentsubjectmap.subjectId
+	order by Id;
 END
