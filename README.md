@@ -1,4 +1,4 @@
-# Police Shooting database setup
+# Police Shooting Database
 Script to verify and  normalize police shooting data
 
 ### Step by Step guide
@@ -19,3 +19,12 @@ Script to verify and  normalize police shooting data
 	```
 	./setup.ps1 -nuke 1 -server <databaseservername> -user <username> -password <password>
 	```
+### Assumptions
+---
+- Windows machine
+- A few parameters are currently hardcoded
+
+### Requirements
+---
+ - Powershell [http://social.technet.microsoft.com/wiki/contents/articles/21016.how-to-install-windows-powershell-4-0.aspx]
+ - MySQL ODBC connector [http://dev.mysql.com/downloads/connector/odbc/]
